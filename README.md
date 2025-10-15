@@ -10,8 +10,7 @@ This project demonstrates key distributed-systems concepts such as:
 # Build Instructions
 ```
 # Clone the repository
-git clone https://github.com/DivijaChoudhary/TaskMaster.git
-cd TaskMaster
+git clone https://github.com/Divija3009/TaskSchedular.git
 
 # Configure build with CMake
 cmake -B build -S . -DCMAKE_TOOLCHAIN_FILE="C:/path/to/vcpkg/scripts/buildsystems/vcpkg.cmake"
